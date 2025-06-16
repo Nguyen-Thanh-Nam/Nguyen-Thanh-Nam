@@ -15,8 +15,8 @@
 I'm **Nguyen Thanh Nam**, a cybersecurity enthusiast with a strong passion for **System hacking** and **CTF**.  
 I enjoy exploring low-level system internals, breaking binaries (ethically), and building tools to make hacking more efficient and fun.
 
-- 🔥 **Focus:** Binary Exploitation, Heap, Buffer Overflow, ROP  
-- 🛠️ **Tools:** GDB + pwndbg, pwntools, radare2, IDA Free, Linux  
+- 🔥 **Focus:** Binary Exploitation, Heap, Buffer Overflow  
+- 🛠️ **Tools:** GDB + pwndbg, pwntools,  IDA Free, Linux  
 - 💻 **Languages:** Python, C++, Java
 
 ---
