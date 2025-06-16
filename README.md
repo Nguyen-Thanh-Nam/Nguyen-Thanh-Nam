@@ -1,4 +1,5 @@
-<h1 align="center">>~$ whoami: Nguyen Thanh Nam</h1>
+<h1 align="center">~$ whoami: Nguyen Thanh Nam</h1>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;CTF+Player;Python+|+C%2B%2B+|+Java" alt="Typing SVG" />
