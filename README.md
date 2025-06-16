@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Nam</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;%7C+CTF+Player;Python+%7C+C%2B%2B+%7C+Java+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;%7C+CTF+Player;Python+%7C+C%2B%2B+%7C+Java" alt="Typing SVG" />
 </p>
 
 <p align="center">
