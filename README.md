@@ -1,47 +1,33 @@
-<h1 align="center">👋 Hello, I'm Nguyen Thanh Nam</h1>
+<h1 align="center">Hi 👋, I'm Nguyen Thanh Nam</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;%7C+CTF+Player;Python+%7C+C%2B%2B+%7C+Java+Dev" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  🧠 Cybersecurity Enthusiast | 🧨 Pwn Lover | 💻 CTF Player  
-  <br>
-  🔍 I love exploiting binaries and solving CTF challenges!
-</p>
-
----
-
-## 🚀 About Me
-I'm **Nguyen Thanh Nam**, a cybersecurity enthusiast with a strong passion for **binary exploit**, and **CTF**.  
-I enjoy exploring system internals, breaking binaries (ethically), and building tools that make hacking fun and efficient.
-
-- 🔐 Focus: Binary Exploitation, Buffer Overflow, Heap, ROP
-- 🛠️ Tools: GDB + pwndbg, pwntools, radare2, IDA, Linux, Git
-- 📚 Languages: Python, C++, Java
-
----
-
-## ⚒️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,linux,bash,vscode,git,gdb" alt="Tech stack">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding gif" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 💡 About Me
+
+I'm **Nguyen Thanh Nam**, a cybersecurity enthusiast with a strong passion for **System hacking** and **CTF**.  
+I enjoy exploring low-level system internals, breaking binaries (ethically), and building tools to make hacking more efficient and fun.
+
+- 🔥 **Focus:** Binary Exploitation, Heap, Buffer Overflow, ROP  
+- 🛠️ **Tools:** GDB + pwndbg, pwntools, radare2, IDA Free, Linux  
+- 💻 **Languages:** Python, C++, Java
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nguyen-Thanh-Nam&show_icons=true&theme=tokyonight" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nguyen-Thanh-Nam&theme=tokyonight" width="450" />
 </p>
 
-> Replace `your-username` with your GitHub username in the image URLs.
-
 ---
 
----
-
-> *"Hacking is not just a skill, it's a mindset — a way to understand and shape the digital world."*  
 > — **Nguyen Thanh Nam**
