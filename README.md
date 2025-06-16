@@ -24,4 +24,4 @@ I enjoy exploring low-level system internals, breaking binaries (ethically), and
 </p>
 
 
-> — Nguyen Thanh Nam
+> Nguyen Thanh Nam 
