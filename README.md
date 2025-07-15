@@ -8,9 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🔥 Passionate about **Cybersecurity, CTFs, and AI**  
-- 🧑‍🎓 Student at **[PTIT - Posts and Telecommunications Institute of Technology](https://ptit.edu.vn)**  
-- 💡 Currently exploring **Reverse Engineering, Binary Exploitation, and AI for Security**  
-- 📫 Contact me: [LinkedIn](https://www.linkedin.com/in/nguyễn-thành-nam-93588536a)
+- 💡 Currently exploring **Binary Exploitation, and AI for Security**  
 
 ---
 
