@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Nguyen Thanh Nam 👋</h1>
+<h1 align="center">I'm Nguyen Thanh Nam </h1>
 
 <p align="center">
   <em>If I can't run, I'll jump instead 🚀</em>
