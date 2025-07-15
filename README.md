@@ -37,11 +37,6 @@
 
 ---
 
-### ✨ Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/nguyễn-thành-nam-93588536a"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"></a>
-</p>
 
 ---
 <p align="center">⭐️ From <a href="https://github.com/Nguyen-Thanh-Nam">Nguyen Thanh Nam</a></p>
